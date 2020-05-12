@@ -2,7 +2,9 @@
 
 ###### tags: `ml`
 
-course website: https://fullstackdeeplearning.com/march2019
+- course website: https://fullstackdeeplearning.com/march2019
+- notes website: https://hackmd.io/@cyyeh/fsdl-bootcamp
+- project repo: https://github.com/cyyeh/fsdl-text-recognizer-project
 
 ## Overview
 
