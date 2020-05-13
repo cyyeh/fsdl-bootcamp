@@ -8,7 +8,17 @@
 
 ## Overview
 
-![](https://i.imgur.com/tIduNOW.png)
+![](https://i.imgur.com/V8SYb9F.png)
+
+Training the model is just one part of shipping a Deep Learning project. In this course, we teach the full stack of production Deep Learning:
+
+- Formulating the problem and estimating project cost
+- Finding, cleaning, labeling, and augmenting data 
+- Picking the right framework and compute infrastructure
+- Troubleshooting training and ensuring reproducibility
+- Deploying the model at scale
+
+Students will complete a project culminating in **deploying a computer vision and natural language processing system into production**.
 
 ## Framework for Understand ML Projects
 
