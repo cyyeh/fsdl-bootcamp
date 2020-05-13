@@ -12,11 +12,11 @@
 
 Training the model is just one part of shipping a Deep Learning project. In this course, we teach the full stack of production Deep Learning:
 
-- Formulating the problem and estimating project cost
-- Finding, cleaning, labeling, and augmenting data 
-- Picking the right framework and compute infrastructure
-- Troubleshooting training and ensuring reproducibility
-- Deploying the model at scale
+- Formulating the **problem** and estimating project **cost**
+- Finding, cleaning, labeling, and augmenting **data** 
+- Picking the right **framework** and compute **infrastructure**
+- **Troubleshooting** training and ensuring **reproducibility**
+- **Deploying** the model at scale
 
 Students will complete a project culminating in **deploying a computer vision and natural language processing system into production**.
 
@@ -90,18 +90,18 @@ Students will complete a project culminating in **deploying a computer vision an
 
 ## Guest Lectures
 
-### Invited Speaker: Lukas Biewald
+### Lukas Biewald
 
 {%youtube 25_kBogrzrs %}
 
-### Invited Speaker: Jeremy Howard
+### Jeremy Howard
 
 {%youtube hZd3X_nGdew %}
 
-### Invited Speaker: Richard Socher
+### Richard Socher
 
 {%youtube yvMgcLKuvVg %}
 
-### Invited Speaker: Xavier Amatriain
+### Xavier Amatriain
 
 {%youtube 5ygO8FxNB8c %}
