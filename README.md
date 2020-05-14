@@ -2,9 +2,7 @@
 
 ###### tags: `ml`
 
-- course website: https://fullstackdeeplearning.com/march2019
-- notes website: https://hackmd.io/@cyyeh/fsdl-bootcamp
-- project repo: https://github.com/cyyeh/fsdl-text-recognizer-project
+**In you are now in the project repo reading the README file, please read details [here](https://hackmd.io/@cyyeh/fsdl-bootcamp)**
 
 ## Overview
 
@@ -105,3 +103,10 @@ Students will complete a project culminating in **deploying a computer vision an
 ### Xavier Amatriain
 
 {%youtube 5ygO8FxNB8c %}
+
+## References
+
+- [course website](https://fullstackdeeplearning.com/march2019)
+- [project repo(latest)](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project) 
+- [project repo(2019 March)](https://github.com/cyyeh/fsdl-text-recognizer-project)
+- [Connectionist Temporal Classification (CTC)](https://youtu.be/c86gfVGcvh4?t=170)
