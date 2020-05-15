@@ -106,7 +106,12 @@ Students will complete a project culminating in **deploying a computer vision an
 
 ## References
 
-- [course website](https://fullstackdeeplearning.com/march2019)
-- [project repo(latest)](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project) 
-- [project repo(2019 March)](https://github.com/cyyeh/fsdl-text-recognizer-project)
-- [Connectionist Temporal Classification (CTC)](https://youtu.be/c86gfVGcvh4?t=170)
+- [Bootcamp Website](https://fullstackdeeplearning.com/march2019)
+- [Project Repo(latest)](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project) 
+- [Project Repo(2019 March)](https://github.com/cyyeh/fsdl-text-recognizer-project)
+- [CMU Lecture: Connectionist Temporal Classification (CTC)](https://youtu.be/c86gfVGcvh4?t=170)
+- [CTC Paper](https://www.cs.toronto.edu/~graves/icml_2006.pdf)
+- How to build an end-to-end recognition system: best practices
+    - [Part I](https://docs.google.com/presentation/d/1AyLOecmW1k9cIbfexOT3dwoUU-Uu5UqlJZ0w3cxilkI/)
+    - [Part II](https://docs.google.com/presentation/d/12gYcPft9_4cxk2AD6Z6ZlJNa3wvZCW1ms31nhq51vMk)
+- [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://dropbox.tech/machine-learning/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning)
